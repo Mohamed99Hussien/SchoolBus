@@ -1,0 +1,67 @@
+.Contactus{
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+span{
+    color: white;
+}
+.appl{
+    margin-right: 2rem;
+    font-size: 21px;
+    padding: 3px;
+}
+h5{
+    text-align: center;
+}
+.send{
+    text-align: center;
+    background-color: #FFAB4C;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    width: 75%;
+
+}
+.send-row{
+    padding: 2rem;
+}
+.contain{
+    background-color: #FFAB4C;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 30px;
+}
+.apply{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 10rem;
+}
+#inlineFormInput{
+    text-align: start;
+}
+.cap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+    position: relative;
+    width: 75%;
+}
+.contact{
+    position: absolute;
+    width: 15%;
+    background-color: #FFAB4C;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    outline:0.5px solid ;
+    padding: 10px;
+    height: 100%;
+    margin-left: -19rem;
+}
+.contact *{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    height: 30%;
+}

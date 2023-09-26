@@ -1,0 +1,95 @@
+.Appfrom1{
+    background-color: rgb(151, 150, 150);
+    padding: 2rem;
+    margin-bottom: 2rem;
+   
+}
+.contain-form{
+    background-color: rgb(151, 150, 150);
+    padding: 2rem;
+    border: 2px solid #FFAB4C;
+    margin-bottom: 2rem;
+    border-radius: 30px;
+
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px !important;
+}
+.container-label{
+
+    background-color: rgb(151, 150, 150);
+    border: 2px solid #FFAB4C;
+    padding: 5px;
+    border-radius: 35px;
+    margin-bottom: 3rem;
+}
+.img-bus{
+    margin-left: 30px;
+}
+.rez-area{
+    resize: none;
+}
+h2{
+    font-weight: bold;
+    margin-bottom: 2rem;
+    text-align: center;
+
+}
+.fil-div{
+    justify-content: center;
+    align-items: center;
+}
+.fileds{
+    background-color: #FFAB4C;
+    padding: 10px;
+    display: flex;
+    margin-bottom: 2rem;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 70%;
+    
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+.bor{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+.handle{width: 45%;}
+.form-inp *{
+    border-radius: 12px;
+    text-align: left !important;
+}
+@media screen and (max-width: 760px) {
+ .media-width{
+     width: 100% !important;
+     margin-left: 0px !important;
+ }
+}
+.hom-d{
+    background-color: #FFAB4C;
+    align-items: center;
+    justify-content: end;
+    padding: 10px;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+span{
+    color: white;
+}
+.appl{ 
+    margin-right: 2rem;
+    font-size: 21px;
+    padding: 3px;
+}
